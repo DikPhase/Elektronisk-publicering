@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(5, 105, 22);
+}
+h1{
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 60px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    display: block;
+    margin: 0 auto;
+}
+h2{
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+p{
+    color: aliceblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+}
+a:link{
+    color: antiquewhite;
+    font-size: large;
+}
+a:visited{
+    color: coral;
+    font-size: large;
+}
+a:hover{
+    color: rgba(250, 235, 215, 0.61);
+    font-size: large;
+}
+nav{
+    color:rgb(243, 243, 243);
+    background-color: #13aa13;
+    width: 150px;
+    height: 60px;
+    text-align: center;
+    line-height: 60px;
+    font-size: larger;
+}
+li{
+    color: antiquewhite;
+}

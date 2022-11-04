@@ -1,0 +1,53 @@
+.row {
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.columns {
+    display: flex;
+    flex-direction: column;
+}
+body{
+    background-color: darkgreen;
+}
+h1{
+    font-size: 60px;
+    color: antiquewhite;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: antiquewhite;
+}
+p{
+    color: antiquewhite;
+    font-size: 20px;
+}
+a:link{
+    color: rgb(153, 240, 225);
+    font-size: large;
+    text-align: center;
+}
+a:visited{
+    color: coral;
+    font-size: large;
+    text-align: center;
+}
+a:hover{
+    color: rgba(250, 235, 215, 0.61);
+    font-size: large;
+    text-align: center;
+}
+h4{
+    text-align: center;
+    color: antiquewhite;
+}
+h6{
+    text-align: center;
+    color: antiquewhite;
+}
+ol{
+    text-align: center;
+    color: antiquewhite;
+}
