@@ -1,11 +1,10 @@
 body{
-    background-color: rgb(5, 105, 22);
+    background-color: lightgreen;
 }
 h1{
-    color: aliceblue;
+    color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: 60px;
-    letter-spacing: 10px;
+    font-size: 5vw;
     text-align: center;
     text-decoration: underline;
 }
@@ -14,36 +13,70 @@ img{
     margin: 0 auto;
 }
 h2{
-    color: aliceblue;
+    color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
     text-align: center;
 }
 p{
-    color: aliceblue;
+    color: black;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-size: large;
+    font-size: 1vw;
 }
 a:link{
-    color: antiquewhite;
+    color: black;
     font-size: large;
 }
 a:visited{
-    color: coral;
+    color: antiquewhite;
     font-size: large;
 }
 a:hover{
-    color: rgba(250, 235, 215, 0.61);
+    color: brown;
     font-size: large;
 }
 nav{
-    color:rgb(243, 243, 243);
-    background-color: #13aa13;
-    width: 150px;
-    height: 60px;
+    color: black;
+    background-color: darkgrey;
+    width: 12vw;
+    height: 3vw;
     text-align: center;
-    line-height: 60px;
-    font-size: larger;
+    line-height: 3vw;
 }
+
 li{
     color: antiquewhite;
+}
+#klocka{
+    width: 12vw;
+    height: 3vw;
+    background-color: darkgrey;
+    color: black;
+    margin: 0%;
+}
+#Accessebility{
+    width: 12vw;
+    height: 3vw;
+    color: black;
+    background-color: darkgrey;
+    font-size: 1vw;
+    margin: 1px;
+}
+#menuLink{
+    display: inline-block;
+    color: black;
+    height: 3vw;
+    width: 12vw;
+    background-color: darkgrey;
+    margin: 0%;
+}
+#blogLink{
+    display: inline-block;
+    width: 12vw;
+    height: 3vw;
+    color: black;
+    background-color: darkgrey;
+    font-size: 1vw;
+}
+#skiplotsoflines{
+    height: 20vw;
 }

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<title>Trash-Man</title>
+<link rel="stylesheet" href="Trashmanstyle.css">
+<script src="LabJava.js" defer></script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+    <h1>Frank "Trash-Man" Reynolds</h1>
+    <nav>
+        <a id="Home" href="http://www.student.itn.liu.se/~emial133/tnmk30/FrankReynolds.php">Home</a><br>
+        <a id="menuLink" href="FranksFavouriteTunes.html">Music stuff bro</a>
+        <p id="klocka" onload="clock()"></p>
+        <div id="Accessebility" onclick="changeColor1()"> Accessebility function</div>
+        <a id="blogLink" href="http://www.student.itn.liu.se/~emial133/tnmk30/BlogFormular.php">Write blogpost</a>
+    </nav>
